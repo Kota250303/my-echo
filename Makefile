@@ -2,7 +2,7 @@ NAME := my-echo
 REPOSITORY := kotaspkana/$(NAME)
 TAG := 0.1
 GOOS := windows
-GOARCH := 386
+GOARCH := amd64
 
 .PHONY: build test image-build image-push clean
 build:
