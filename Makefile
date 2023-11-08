@@ -1,5 +1,5 @@
 NAME := my-echo
-REPOSITORY := kota250303/$(NAME)
+REPOSITORY := kotaspkana/$(NAME)
 TAG := 0.1
 GOOS := linux
 GOARCH := amd64
